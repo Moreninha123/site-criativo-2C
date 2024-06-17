@@ -1,4 +1,9 @@
-body{
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
     background-color: #4c586d;
  color: white;
  display: flex;
@@ -13,4 +18,6 @@ body{
 
 cabecalho-lista-item{
     display: inline-block;
+    margin: 0 16px;
+
 }
